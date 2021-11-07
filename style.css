@@ -1,0 +1,19 @@
+.line {
+  height: 6px;
+  width: 70px;
+  margin: 8px auto;
+  background-color: black;
+}
+img{
+  border-radius: 70px  
+}
+body{
+    background: linear-gradient(#fabae8 8%, #c6deff 100%);
+}
+img{
+    width: 60%;
+    height: 60%;
+}
+img:hover{
+    transform: scale(0.9);
+}
